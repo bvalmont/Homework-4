@@ -41,6 +41,13 @@ The final report includes each of the following:
    * Average Purchase Price
    * Total Purchase Value
 
+## Most Popular Items
+ * Identify the 5 most popular items by purchase count, then list (in a table):
+   * Item ID
+   * Item Name
+   * Purchase Count
+   * Item Price
+   * Total Purchase Value
 
 
 
