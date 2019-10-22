@@ -1,4 +1,4 @@
-# Homework-4
+# Pandas - Heroes of Pymoli
 Heroes of Pymoli
 The ain file is HeroesOfPyoli_homework4
 The starter file was left in the repository as a reference
