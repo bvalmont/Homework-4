@@ -14,6 +14,11 @@ The final report includes each of the following:
   * Average Purchase Price
   * Total Number of Purchases
   * Total Revenue
+  
+## Gender Demograpics
+  * Percentage and Count of Male Players
+  * Percentage and Count of Female Players
+  * Percentage and Count of Other / Non-Disclosed
 
 
 
