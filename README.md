@@ -6,6 +6,15 @@ The objective of this project is to analyze data for a fictional fantasy game ca
 #
 The final report includes each of the following:
 
+## Player Count
+  * Total Number of Players
+  
+## Purchasing Analysis(Total)
+  * Number of Unique Items
+  * Average Purchase Price
+  * Total Number of Purchases
+  * Total Revenue
+
 
 
 
