@@ -19,6 +19,13 @@ The final report includes each of the following:
   * Percentage and Count of Male Players
   * Percentage and Count of Female Players
   * Percentage and Count of Other / Non-Disclosed
+  
+## Purchasing Analysis (Gender)
+ * The following each broken by gender
+   * Purchase Count
+   * Average Purchase Price
+   * Total Purchase Value
+   * Average Purchase Total per Person by Age Group
 
 
 
