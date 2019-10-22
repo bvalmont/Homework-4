@@ -3,8 +3,7 @@
 ## Objective
 The objective of this project is to analyze data for a fictional fantasy game called Heroes of Pymoli. Heroes of Pymoli is a free-to-play game, but players are encouraged to purchase optional items that enhance their playing experience.  The company behind the game would like to generate a report that breaks down the game's purchasing data into meaningful insights.
 
-#
-The final report includes each of the following:
+# The final report includes each of the following:
 
 ## Player Count
   * Total Number of Players
