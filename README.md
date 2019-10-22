@@ -57,7 +57,7 @@ The objective of this project is to analyze data for a fictional fantasy game ca
    * Item Price
    * Total Purchase Value
 
-### Instructons and References for Heroes of Pymoli
+### Instructons and References for Heroes of Pymoli:
 #### The main file is named  HeroesOfPyoli
 #### BV is the name of the .docx file that has 3 observations from te data set
 #### The csv file can be found in the repository as a reference
